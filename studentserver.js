@@ -394,7 +394,7 @@ app.get('/students/search/:last_name', function (req, res) {
 
 
 
-app.listen(5678); //start the server
+app.listen(8080); //start the server
 console.log('Server is running...');
-console.log('Webapp:   http://localhost:5678/')
-console.log('API Docs: http://localhost:5678/api-docs')
+console.log('Webapp:   http://localhost:8080/')
+console.log('API Docs: http://localhost:8080')
